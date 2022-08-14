@@ -1,4 +1,4 @@
-module github.com/pallat/dbconnect
+module github.com/havebit/pgconnect
 
 go 1.19
 
